@@ -1,9 +1,9 @@
 {
-	"name": "Reddit Enhancement Suite",
+	"name": "Phri - Reddit Enhancement Suite",
 	"version": "4.5.4",
 	"manifest_version": 2,
 	"minimum_chrome_version": "26.0",
-	"description": "Reddit Enhancement Suite - a group of enhancements for browsing Reddit",
+	"description": "Phri - Reddit Enhancement Suite - a group of enhancements for browsing Reddit",
 	"background": {
 		"scripts": ["background.js"]
 	},
